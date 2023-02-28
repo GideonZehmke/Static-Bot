@@ -1,0 +1,2 @@
+# Static-Bot
+Trading bot
